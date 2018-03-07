@@ -1,4 +1,4 @@
-Q1. Without using jargon, how would you describe the command line to a lay person (e.g. your mum)?
+Q1. Without using jargon, how would you describe the command line to a lay person (e.g. your mum)? <br>
 A) The command line is a useful interface tool to communicate  with computer by typing various instructions.
     
 Q2.List 10 terminal commands and in plain english (i.e. with minimal technical jargon) describe what they do.
